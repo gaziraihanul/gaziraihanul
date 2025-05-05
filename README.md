@@ -26,7 +26,7 @@ Here are a few cool things I've worked on, and am currently working on!:
 
 
 ## 📫 Let's Connect!
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/gaziraihanul-raihan-amin/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gaziraihanul-raihan-amin/)
 - 📧 g.raihan.amin.com
 <!--
 **gaziraihanul/gaziraihanul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
