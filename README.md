@@ -1,6 +1,6 @@
-## Hi there 👋
-
-My name is Raihan, and I'm a student at the University of Toronto!
+# Hello!👋 I'm **Raihan** 😊 
+#
+and I'm a student at the University of Toronto!
 
 Im entering my fourth year of an HBA degree in Economics with a focus in Data Analytics, as well as a Statistics and Digital Humanities minor.
 
