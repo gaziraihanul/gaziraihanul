@@ -9,6 +9,7 @@ I'm a student at the **University of Toronto**, currently pursuing an Honours Ba
 ## 🧪 Projects
 Here are a few cool things I've worked on, and am currently working on!:
 - 📈 **Exploring the Link Between Weather Conditions and Domestic Crime in Chicago.** – Merged 10 years of weather + crime data to explore patterns and connections using visualizations, regressions, & random forests.
+  
 - ❤️ **Key Factors Influencing User Likes on Dating App Profiles** – Scraped user profiles and modelled engagement using R, uncovering what factors influence user likes and to what extent with statistical modelling. 
 
 ➡️ *Check out the pinned repos below for more!*
