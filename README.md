@@ -21,7 +21,7 @@ Here are a few cool things I've worked on, and am currently working on!:
 
 ## 🌱 Currently Learning
 - IBM Cybersecurity Analyst Professional Certificate
-- Building interactive dashboards (Streamlit / Tableau)
+- Building interactive dashboards (Power BI / Tableau)
 - Time series forecasting and spatial analysis
 - Writing clean, production-ready Python
 
