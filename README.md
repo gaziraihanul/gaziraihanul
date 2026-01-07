@@ -20,7 +20,6 @@ Here are a few cool things I've worked on, and am currently working on!:
 **Tools:** Jupyter, Stata, Power BI, Git, Excel, Tableau
 
 ## 🌱 Currently Learning
-- IBM Cybersecurity Analyst Professional Certificate
 - Building interactive dashboards (Power BI / Tableau)
 - Time series forecasting and spatial analysis
 - Writing clean, production-ready Python
