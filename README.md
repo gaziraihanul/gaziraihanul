@@ -1,5 +1,5 @@
 # Hello!👋 I'm **Raihan** 😊 
-I'm a recent graduate the **University of Toronto**, with an Honours Bachelor of Arts in **Economics** with a focus in **Data Analytics**, and minors in **Statistics** and **Digital Humanities**.
+I'm a recent graduate from the **University of Toronto**, with an Honours Bachelor of Arts in **Economics** with a focus in **Data Analytics**, and minors in **Statistics** and **Digital Humanities**.
 
 ➡️ *Check out the pinned repos below for more!*
 
